@@ -1,6 +1,7 @@
 # Website Devlopment with AWS, Github, Jenkins & Ansible.
 
-![Web Developer](https://user-images.githubusercontent.com/67089791/175801644-1330bd5c-628f-49bb-a064-30d08fbe1208.png)
+![Developer](https://user-images.githubusercontent.com/67089791/175803037-47bce0e0-30d7-4d9a-a414-55074d57fc03.png)
+
 
 # Ansible
 
