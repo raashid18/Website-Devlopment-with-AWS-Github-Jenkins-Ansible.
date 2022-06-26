@@ -1,5 +1,26 @@
 # Website Devlopment with AWS, Github, Jenkins & Ansible.
 
+![Web Developer](https://user-images.githubusercontent.com/67089791/175801644-1330bd5c-628f-49bb-a064-30d08fbe1208.png)
+
+# Ansible
+
+* Ansible is a open-source IT configuration managemement, deployment & orchestration tool. It aims to provide large productivity gains to a wide variety of Automation challages.
+* Ansible Automation Platform has grown over the past years to provide powerful automation solutions that work for operators, administrators and IT decision makers across a variety of technology domains. It’s a leading enterprise automation solution from Red Hat®, a thriving open source community, and the de facto standard technology of IT automation.
+* Ansible works on Push mechanism.
+* We can use this tool whatever our servers are in on-premises or in the cloud.
+* Ansible use YAML(Yet Another Markup Language) file to write the playbooks.
+
+# Jenkins
+
+* Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
+* Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed.
+
+# Amazon Web Service(AWS)
+
+* The full form of AWS is Amazon Web Services. It is a platform that offers flexible, reliable, scalable, easy-to-use and, cost-effective cloud computing solutions.
+* AWS is a comprehensive, easy to use computing platform offered Amazon. The platform is developed with a combination of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
+* Amazon Web Services offers a wide range of different business purpose global cloud-based products. The products include storage, databases, analytics, networking, mobile, development tools, enterprise applications, with a pay-as-you-go pricing model.
+
 # Deploy 4 Amazon Linux EC2 Instance.
 
 1. Developer Server
