@@ -1,4 +1,4 @@
-# Website Devlopment with AWS, Github, Jenkins & Ansible.
+# Website Development with AWS, Github, Jenkins & Ansible.
 
 ![Developer](https://user-images.githubusercontent.com/67089791/175803037-47bce0e0-30d7-4d9a-a414-55074d57fc03.png)
 
